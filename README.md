@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou Diogo Costa de Jesus 👋
 
-<!--
-**Chrom4/Chrom4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas industriais MES, WMS e APS.
 
-Here are some ideas to get you started:
+Atualmente atuo com aplicações web, mobile e processamento de dados utilizando Node.js, React e MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+### Backend
+- Node.js
+- Express.js
+- GraphQL
+- MongoDB
+- SQL
+
+### Frontend
+- React
+- Next.js
+- React Native
+
+### Infraestrutura
+- Linux
+- Debian
+- Git
+
+## 💼 Experiência
+
+Atualmente trabalho como Desenvolvedor Full Stack na Quadfloor, participando do desenvolvimento de sistemas industriais voltados para manufatura e logística.
+
+## 🎓 Formação
+
+- Engenharia de Computação — CEFET/RJ
+- Análise e Desenvolvimento de Sistemas — UNISUAM
+
+## 🌎 Idiomas
+
+- Português (Nativo)
+- Inglês (C1 - Cambridge Linguaskill)
+- Espanhol (Intermediário)
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/diogocjesus
+- E-mail: dc.jesus1904@gmail.com
